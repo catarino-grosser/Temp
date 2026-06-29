@@ -1,0 +1,8 @@
+{
+  "name": "ted-amigo-virtual",
+  "version": "2.2.0",
+  "private": true,
+  "dependencies": {
+    "firebase-admin": "^12.7.0"
+  }
+}
